@@ -1,0 +1,6 @@
+@StockFlowAPI_HostAddress = http://localhost:5293
+
+GET {{StockFlowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
