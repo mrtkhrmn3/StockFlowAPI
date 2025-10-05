@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\businesslayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\businesslayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\businesslayer\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\businesslayer\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\businesslayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\businesslayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\businesslayer\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\businesslayer\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|c:\\users\\mert\\documents\\github\\stockflowapi\\stockflowapi\\stockflowapi\\businesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{721D6525-AB77-4C6D-BD98-2FFFE7D68C67}|StockFlowAPI\\StockFlowAPI.csproj|solutionrelative:stockflowapi\\businesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,63 +41,72 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RefreshRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\DTOs\\RefreshRequestDTO.cs",
-              "RelativeDocumentMoniker": "StockFlowAPI\\BusinessLayer\\DTOs\\RefreshRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\DTOs\\RefreshRequestDTO.cs",
-              "RelativeToolTip": "StockFlowAPI\\BusinessLayer\\DTOs\\RefreshRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T10:25:06.811Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "StockFlowAPI\\BusinessLayer\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Services\\UserService.cs",
               "RelativeToolTip": "StockFlowAPI\\BusinessLayer\\Services\\UserService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T19:53:04.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "StockFlowAPI\\BusinessLayer\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "StockFlowAPI\\BusinessLayer\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T09:54:31.87Z",
+              "WhenOpened": "2025-10-01T14:59:20.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\WebAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "StockFlowAPI\\WebAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\WebAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "StockFlowAPI\\WebAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwCUAAAAdAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "StockFlowAPI\\BusinessLayer\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "StockFlowAPI\\BusinessLayer\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T09:53:14.748Z",
+              "WhenOpened": "2025-09-29T20:23:59.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StockFlowAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\Program.cs",
+              "RelativeToolTip": "StockFlowAPI\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwE8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:18:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "StockFlowAPI\\BusinessLayer\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\BusinessLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "StockFlowAPI\\BusinessLayer\\Services\\ProductService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:21:47.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StockFlowAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mert\\Documents\\GitHub\\StockFlowAPI\\StockFlowAPI\\StockFlowAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StockFlowAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:21:27.254Z",
               "EditorCaption": ""
             }
           ]
